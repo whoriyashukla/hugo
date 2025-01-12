@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:8080/posts/my-first-post/</loc>
+    <loc>riyashukla.me/posts/my-first-post/</loc>
     <lastmod>2025-01-12T21:23:17+05:30</lastmod>
   </url><url>
-    <loc>//localhost:8080/</loc>
+    <loc>riyashukla.me/</loc>
     <lastmod>2025-01-12T21:23:17+05:30</lastmod>
   </url><url>
-    <loc>//localhost:8080/posts/</loc>
+    <loc>riyashukla.me/posts/</loc>
     <lastmod>2025-01-12T21:23:17+05:30</lastmod>
   </url><url>
-    <loc>//localhost:8080/categories/</loc>
+    <loc>riyashukla.me/categories/</loc>
   </url><url>
-    <loc>//localhost:8080/tags/</loc>
+    <loc>riyashukla.me/tags/</loc>
   </url>
 </urlset>
