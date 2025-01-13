@@ -1,4 +1,5 @@
-baseURL = 'https://riyashukla.me/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'PaperMod'
+baseURL = "https://riyashukla.me/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "PaperMod"
+
